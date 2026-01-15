@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=100&lines=Lutfi+Hakim+Yusra;Computer+Science+@+ITB;Research+Assistant+@+Lab+IRK;Systems+%26+Backend+Engineer" alt="Typing SVG" />
-<>
 <img src="https://github.com/pixelatedbus.png" width="150" style="border-radius: 50%; border: 3px solid #7aa2f7;" />
 
 ### **世界は本当に美しい** 
