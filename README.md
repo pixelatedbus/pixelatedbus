@@ -17,7 +17,7 @@ Learning new things everyday for a better future.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masiblomada) 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pixelatedbus.github.io)  -->
 
----
+##
 
 ### 🛠 Tech Stack & Tools 🛠
 <p align="center">
@@ -26,7 +26,7 @@ Learning new things everyday for a better future.
   </a>
 </p>
 
----
+##
 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pixelatedbus&theme=default)
 ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pixelatedbus&theme=default)
