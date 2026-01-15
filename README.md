@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=4000&pause=1000&center=false&vCenter=true&width=435&lines=Lutfi Hakim Yusra" alt="Typing SVG"/></a>
+# Lutfi Hakim Yusra
 <img src="https://github.com/pixelatedbus.png" width="150" style="border-radius: 50%; border: 3px solid #7aa2f7;" />
 
 ### **世界は本当に美しい** 
