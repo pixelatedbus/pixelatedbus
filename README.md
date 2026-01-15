@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=typewriter&text=Lutfi%20Hakim%20Yusra&fontSize=70&height=120&color=7aa2f7&fontAlignY=40" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=4000&pause=1000&center=false&vCenter=true&width=435&lines=Lutfi Hakim Yusra" alt="Typing SVG"/></a>
 <img src="https://github.com/pixelatedbus.png" width="150" style="border-radius: 50%; border: 3px solid #7aa2f7;" />
 
 ### **世界は本当に美しい** 
@@ -28,11 +28,8 @@ Learning new things everyday for a better future.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelatedbus&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelatedbus&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" height="185" />
-</p>
-
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pixelatedbus&theme=default)
+![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pixelatedbus&theme=default)
 </div>
 
 ---
@@ -42,4 +39,4 @@ Learning new things everyday for a better future.
 - **Interests:** Systems Engineering, Fullstack Development, Game Development, and learning new technologies.
 - **Hobbies:** Gaming and Animanga
 
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontColor=1239&section=footer
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontColor=1239&section=footer)
