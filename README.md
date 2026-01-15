@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lutfi Hakim Yusra
+<img src="https://capsule-render.vercel.app/render?type=waving&color=7aa2f7&height=250&section=header&text=Lutfi%20Hakim%20Yusra&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 <img src="https://github.com/pixelatedbus.png" width="150" style="border-radius: 50%; border: 3px solid #7aa2f7;" />
 
 ### **世界は本当に美しい** 
