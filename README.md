@@ -38,5 +38,3 @@ Learning new things everyday for a better future.
 - **Email:** luthfihakimyusra@gmail.com
 - **Interests:** Systems Engineering, Fullstack Development, Game Development, and learning new technologies.
 - **Hobbies:** Gaming and Animanga
-
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontColor=1239&section=footer)
